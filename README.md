@@ -40,10 +40,15 @@ This project aims to develop a novel **unsupervised Graph Neural Network (GNN)**
 - Enhance feature extraction techniques, possibly with **variational autoencoders** or multi-scale graph learning.
 - Validate model performance on external datasets.
 
+## Repository Structure
+- `Data_Cleaning.ipynb`: Data preprocessing and cleaning steps.
+- `MSc_Final_Project_Unsupervised_Model.ipynb`: Core notebook for the unsupervised GNN model implementation.
+- `Survival_Analysis.ipynb`: Notebook for survival analysis using the extracted features.
+- `README.md`: Documentation for the project.
+
 ## Technologies Used
 - **Python, PyTorch, PyTorch Geometric, NumPy, Pandas, Scikit-learn, Matplotlib, Optuna.**
 
 ## Author
 **Daniel Abel Fernandes**  
 MSc Biomedical Engineering, Imperial College London
-
